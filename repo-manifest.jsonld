@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/trio-typing/commit/2b182b7d7820104763657211840bac06506c9564",
       "git:hexsha": "2b182b7d7820104763657211840bac06506c9564",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
